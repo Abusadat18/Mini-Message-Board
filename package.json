@@ -4,7 +4,7 @@
   "description": "For practicing express concepts learned from The Odin Project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node app.js"
   },
   "author": "Abu Sadat Ansari",
   "license": "ISC",
